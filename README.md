@@ -2,16 +2,6 @@
 
 <br/>
 
-### 매주 목요일 14:30
-
-  Week 1:  우선순위큐 힙과힙정렬1<br/>
-  Week 2:  힙과힙정렬2, 합병정렬 합병정렬퀵정렬<br/>
-  Week 3:  사전, 탐색트리<br/>
-  Week 4:  해시테이블, 그래프<br/>
-  Week 5:  그래프순회, 방향그래프<br/>
-  Week 6:  최소신장트리<br/>
-  Week 7:  최단경로<br/>
-
 ### 강의 자료
 
 |Week|Cource Contents|LectureNote|ExerciseNote|
@@ -31,3 +21,14 @@
 |5|방향그래프|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/tree/main/이론/15.pdf)|[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/12.pdf)|
 |6|최소신장트리|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/tree/main/이론/16.pdf)|[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/13.pdf)|
 |7|최단경로|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/tree/main/이론/17.pdf)|[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/14.pdf)|
+
+
+### 매주 목요일 14:30
+
+  Week 1:  우선순위큐 힙과힙정렬1<br/>
+  Week 2:  힙과힙정렬2, 합병정렬 합병정렬퀵정렬<br/>
+  Week 3:  사전, 탐색트리<br/>
+  Week 4:  해시테이블, 그래프<br/>
+  Week 5:  그래프순회, 방향그래프<br/>
+  Week 6:  최소신장트리<br/>
+  Week 7:  최단경로<br/>
