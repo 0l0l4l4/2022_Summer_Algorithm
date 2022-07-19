@@ -3,7 +3,7 @@
 ### 이론
 |Week|Cource Contents|LectureNote|
 |------|---|---|
-|1|우선순위큐|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/이론%20PDF/강의05-우선순위 큐.pdf)|
+|1|우선순위큐|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/이론%20PDF/https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/%EC%9D%B4%EB%A1%A0%20PDF/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B405-%E1%84%8B%E1%85%AE%E1%84%89%E1%85%A5%E1%86%AB%E1%84%89%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B1%20%E1%84%8F%E1%85%B2.pdf)|
 |1|힙과 힙 정렬|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/이론%20PDF/강의06-힙과 힙 정렬.pdf)|
 |2|합병 정렬|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/이론%20PDF/강의07-합병 정렬.pdf)|
 |2|퀵 정렬|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/이론%20PDF/강의08-퀵 정렬.pdf)|
