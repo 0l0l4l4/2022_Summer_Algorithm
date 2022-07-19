@@ -22,7 +22,6 @@
 |5|방향그래프|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/tree/main/이론/15.pdf)|[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/12.pdf)|
 |6|최소신장트리|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/tree/main/이론/16.pdf)|[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/13.pdf)|
 |7|최단경로|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/tree/main/이론/17.pdf)|[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/14.pdf)|
-<br/>
 
 ---
 
