@@ -7,7 +7,7 @@
 |0|자료구조복습|||[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/1.pdf)|
 |1|우선순위큐|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/tree/main/이론/5.pdf)|[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/2.pdf)|
 |1|힙과 힙 정렬|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/tree/main/이론/6.pdf)|[test(1)](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/3.pdf)
-[test(2)](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/4.pdf)|
+||||[test(2)](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/4.pdf)|
 |2|합병 정렬|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/tree/main/이론/7.pdf)|[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/5.pdf)|
 |2|퀵 정렬|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/tree/main/이론/8.pdf)|[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/5-1.pdf)|
 |2|정렬 일반|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/tree/main/이론/9.pdf)||
