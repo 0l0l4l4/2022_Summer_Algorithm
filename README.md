@@ -1,11 +1,11 @@
 ## 2022 알고리즘
 
 
-### 자료
+### 강의 자료
 
 |Week|Cource Contents|LectureNote|ExerciseNote|
 |:---:|:-----:|:---:|:---:|
-|0|자료구조복습|||[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/1.pdf)|
+|0|자료구조복습||[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/1.pdf)|
 |1|우선순위큐|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/tree/main/이론/5.pdf)|[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/2.pdf)|
 |1|힙과 힙 정렬 (1)|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/tree/main/이론/6.pdf)|[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/3.pdf)
 |2|힙과 힙 정렬 (2)||[test](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/문제/4.pdf)|
