@@ -27,7 +27,7 @@
 
 ### 매주 목요일 14:30
 
-|Week|Cource Contents|PPT|
+|Week|Cource Contents|resentation|
 |:---:|:-----:|:---:|
 |1|우선순위큐, 힙과힙정렬1|[PPT](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/%EB%B0%9C%ED%91%9C%20PPT/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%201%EC%A3%BC%EC%B0%A8.pptx)|
 |2|힙과힙정렬2, 합병정렬 합병정렬퀵정렬|
