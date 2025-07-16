@@ -1,5 +1,5 @@
 ## 알고리즘
-2022년 여름방학 스터디
+2025년 여름방학 스터디
 
 ---
 
@@ -25,14 +25,12 @@
 
 ---
 
-### 매주 목요일 14:30
-
 |Week|Cource Contents|Presentation|
 |:---:|:-----:|:---:|
-|1|우선순위큐, 힙과힙정렬1|[pdf](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/%EB%B0%9C%ED%91%9C%20PPT/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%201%EC%A3%BC%EC%B0%A8.pdf) / [ppt](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/%EB%B0%9C%ED%91%9C%20PPT/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%201%EC%A3%BC%EC%B0%A8.pptx)|
-|2|힙과힙정렬2, 합병정렬 합병정렬퀵정렬|
-|3|사전, 탐색트리|[ppt](https://github.com/0l0l4l4/2022_Summer_Algorithm/blob/main/%EB%B0%9C%ED%91%9C%20PPT/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%203%EC%A3%BC%EC%B0%A8.pptx)|
-|4|해시테이블, 그래프|
-|5|그래프순회, 방향그래프|
+|1|우선순위큐, 힙과힙정렬1| / [pdf](link)|
+|2|힙과힙정렬2, 합병정렬 합병정렬퀵정렬|  / [pdf](link)|
+|3|사전, 탐색트리|  / [pdf](link)|
+|4|해시테이블, 그래프|  / [pdf](link)|
+|5|그래프순회, 방향그래프|  / [pdf](link)|
 |6|최소신장트리|
 |7|최단경로|
